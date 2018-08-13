@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
